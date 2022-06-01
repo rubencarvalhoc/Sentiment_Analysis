@@ -9,7 +9,7 @@ pd.set_option('display.width', 100)
 
 # Load twitter api keys and tokens
 auth = tweepy.OAuth1UserHandler(
-   "YOUR KEYS AND TOKENS HERE", "YOUR KEYS AND TOKENS HERE", "3246137451-YOUR KEYS AND TOKENS HERE", "YOUR KEYS AND TOKENS HERE"
+   "YOUR KEYS AND TOKENS HERE", "YOUR KEYS AND TOKENS HERE", "YOUR KEYS AND TOKENS HERE", "YOUR KEYS AND TOKENS HERE"
 )
 
 api = tweepy.API(auth)
